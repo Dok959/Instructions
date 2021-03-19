@@ -4,6 +4,10 @@
 
     npm install --global npm-windows-upgrade
     
+Для того, чтобы обновить npm, открыть PowerShell и выполнить команду:
+
+    Set-ExecutionPolicy Unrestricted -Scope CurrentUser -Force
+
 Для запуска процесса обновления выполнить указанную ниже команду.
 
     npm-windows-upgrade

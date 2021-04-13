@@ -15,7 +15,7 @@
 
     git init
     git status
-    git add .  
+    git add .
     git commit -m "first commit"
     git remote add origin <адрес вашего репозирория>
     git push -u origin main
@@ -24,8 +24,8 @@
 
  - `git init` объявляет данную директорию новым репозиторием
  - `git status` проверяет наличие изменений в директории
- - `git add .` добавляет в коммит измененные файлы 
- - `git commit -m "first commit"` объявляет новый коммит и указывает его наименование 
+ - `git add .` добавляет в коммит измененные файлы
+ - `git commit -m "first commit"` объявляет новый коммит и указывает его наименование
  - `git remote add origin <адрес Вашего репозирория>` устанавливается
    соединение с удаленным репозиторием
  -  `git push -u origin main`

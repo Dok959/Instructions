@@ -64,6 +64,10 @@
 Информация о проекте с git.
 
 ---
+### [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
+Работа с ветками в проекте с git.
+
+---
 ### [Indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
 Выделение отступов цветом.
 
